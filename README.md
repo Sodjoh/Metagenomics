@@ -29,7 +29,7 @@ Figure 4: Rarefaction curves for Vegan, SRR37,43,44 (n=3) and Omnivore SRR35,36,
 Taxonomic classification
 Kraken2 classification of the samples was done against the standard. The majority of classified reads were assigned to bacterial taxa, with Bacillota and Bacteroidota consistently representing the most abundant phyla across all samples. Bracken species-level re-estimation improved the specificity of abundance assignments by redistributing reads from higher-level nodes, resulting in a final abundance table comprising thousands of species-level taxa.
 Stacked bar plots of relative taxonomic abundance at the phylum level revealed differences in community composition between dietary groups (Figure 5). Vegan and Omnivore samples showed a notably higher relative abundance of Bacteroidota, particularly specie copri (figure 8) within Prevotellaceae family (Figure 6).
-![image_alt](
+![image_alt](https://github.com/Sodjoh/Metagenomics/blob/9332a9ed165209f029a301f82a65d5357ad58ad1/Rplot11.png)
 Figure 5: Mean relative abundance of microbial phyla in Vegan vs. Omnivore cohorts. Taxonomic composition was determined via Kraken2 classification of shotgun metagenomic reads. Proportions represent the mean abundance across three biological replicates per group
  
 Figure 6: Taxonomic composition of gut microbiota at the Family level. Data represent the mean relative abundance within Vegan (n=3) and Omnivore (n=3) cohorts. 
