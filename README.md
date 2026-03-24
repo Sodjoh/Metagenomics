@@ -47,6 +47,7 @@ Figure 10: Principal Coordinates Analysis (PCoA) of gut microbial communities ba
 Figure 11: PCoA ordination of gut microbial communities based on Jaccard binary distance. This plot represents the similarity between Vegan (n=3) and Omnivore (n=3) cohorts based on the presence or absence of microbial taxa. The lack of distinct clustering suggests a high degree of overlap in the species taxa between the two dietary groups, consistent with the non-significant results obtained from abundance-based metrics
 ![image_alt](https://github.com/Sodjoh/Metagenomics/blob/e347dd1ba74023b90de5231c827d3ac24553b64f/Rplot20.png)
 Figure 12: Non-metric Multidimensional Scaling (NMDS) of gut microbial communities using Bray-Curtis dissimilarity. Each point represents the taxonomic profile of an individual sample, colored by dietary cohort. 
-
+Table 1: A PERMANOVA test (p = 0.7) confirmed no statistically significant difference in global community structure between the two groups.
+|:---|---|---|---|---|---:|
 
 
