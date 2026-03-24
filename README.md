@@ -20,7 +20,7 @@ FastQC analysis revealed uniformly high base quality scores with zero adapter co
 Figure 1: Summary heatmap of FastQC quality control metrics for all samples. Each row represents an individual metagenomic sample, and each column represents a specific QC test (e.g., Per base sequence quality, Overrepresented sequences). Green tiles indicate a "Pass," while yellow or red tiles indicate "Warning" or "Fail" status. The overall dominance of green suggests high consistency and reliability across the dataset.
 ![image_alt](https://github.com/Sodjoh/Metagenomics/blob/ed5a6af4ac8d0af82064283ae48cd0381848431b/fastqc_per_base_sequence_quality_plot.png)  
 Figure 2: Per base sequence quality distribution across all read positions. The y-axis represents the Phred quality score (Q-score). The concentration of all samples within the green zone (Q > 30) indicates a base call accuracy of over 99.9%. The stability of the scores across the entire 150bp read length confirms that there was minimal signal decay during the sequencing run.
- 
+![image_alt](https://github.com/Sodjoh/Metagenomics/blob/bddf771cce6fdef1655082c6bccb73e31f2fb41b/fastqc_adapter_content_plot.png)
 Figure 3: Adapter content across all sequenced libraries. This plot shows the cumulative percentage of reads containing Illumina Universal Adapter sequences at each base position. The flat lines at 0% indicate that adapter contamination was not present in the raw data, ensuring high-quality input for taxonomic classification.
 Rarefaction
 The curves represent the accumulation of unique taxa as a function of sequencing depth. The observed leveling off (plateau) across all samples indicates that the sequencing depth was sufficient to capture the majority of microbial diversity within each cohort.
