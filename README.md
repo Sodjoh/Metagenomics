@@ -16,7 +16,7 @@ The BIOM file was imported into R through phyloseq alongside sample metadata and
 # Results
 ## Data Sequencing and Quality
 FastQC analysis revealed uniformly high base quality scores with zero adapter contamination. GC content was consistent across samples (45–53%), and MultiQC confirmed homogeneous quality profiles across all six samples which further gave me reasons not to use fastp for trimming.
-
+![image_alt](
  
 Figure 1: Summary heatmap of FastQC quality control metrics for all samples. Each row represents an individual metagenomic sample, and each column represents a specific QC test (e.g., Per base sequence quality, Overrepresented sequences). Green tiles indicate a "Pass," while yellow or red tiles indicate "Warning" or "Fail" status. The overall dominance of green suggests high consistency and reliability across the dataset.
 
