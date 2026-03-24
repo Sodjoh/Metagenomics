@@ -31,9 +31,9 @@ Kraken2 classification of the samples was done against the standard. The majorit
 Stacked bar plots of relative taxonomic abundance at the phylum level revealed differences in community composition between dietary groups (Figure 5). Vegan and Omnivore samples showed a notably higher relative abundance of Bacteroidota, particularly specie copri (figure 8) within Prevotellaceae family (Figure 6).
 ![image_alt](https://github.com/Sodjoh/Metagenomics/blob/9332a9ed165209f029a301f82a65d5357ad58ad1/Rplot11.png)
 Figure 5: Mean relative abundance of microbial phyla in Vegan vs. Omnivore cohorts. Taxonomic composition was determined via Kraken2 classification of shotgun metagenomic reads. Proportions represent the mean abundance across three biological replicates per group
- 
+![image_alt]
 Figure 6: Taxonomic composition of gut microbiota at the Family level. Data represent the mean relative abundance within Vegan (n=3) and Omnivore (n=3) cohorts. 
- 
+![image_alt](https://github.com/Sodjoh/Metagenomics/blob/b7a521af895c6ee55057d78603189334b7ba5475/Rplot15.png)
 Figure 7: Taxonomic classification of gut microbiota at the Genus level. Data represent the mean relative abundance within Vegan (n=3) and Omnivore (n=3) cohorts. 
 
  
